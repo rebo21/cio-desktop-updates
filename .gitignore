@@ -1,0 +1,14 @@
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+.env
+.env.*
+*.exe
+*.msi
+*.zip
+*.apk
+node_modules/
+target/
