@@ -1,8 +1,8 @@
 {
-  "version": "0.1.3",
-  "version_code": 1003,
-  "url": "https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.3.apk",
-  "sha256": "de8ed47c23e475bd872303b4e860b1bff2b5c3a0eb48d0ea044c80e113bc2e1f",
-  "size": 51062878,
-  "notes": "Online Service Request - CIO for Android."
+  "version": "0.1.4",
+  "version_code": 1004,
+  "url": "https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.4.apk",
+  "sha256": "7d699d91ff11fd289a0105809117f99fdc9703d1fc3e3c927e190cc2baddeb03",
+  "size": 51554438,
+  "notes": ""
 }
