@@ -12,14 +12,14 @@ Click the link above to download, then open the downloaded `.exe` file to instal
 
 ## Download for Android
 
-### [Download the Android App (v0.1.3)](https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.3.apk)
+### [Download the Android App (v0.1.4)](https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.4.apk)
 
 Open the downloaded `.apk` file on your Android phone to install the app.
 
 Or copy this link and paste it into your phone's browser:
 
 ```text
-https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.3.apk
+https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.4.apk
 ```
 
 ## Already have the Windows app?
