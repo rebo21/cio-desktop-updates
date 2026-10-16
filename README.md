@@ -1,6 +1,6 @@
 # Online Service Request - CIO
 
-The desktop app for the City Information Office's Online Service Request.
+The Windows desktop and Android app for the City Information Office's Online Service Request.
 
 ## Download for Windows
 
@@ -10,6 +10,12 @@ Click the link above to download, then open the downloaded `.exe` file to instal
 
 [View the latest release](https://github.com/rebo21/cio-desktop-updates/releases/latest)
 
-## Already have the app?
+## Download for Android
+
+### [Download the Android App (v0.1.3)](https://github.com/rebo21/cio-desktop-updates/releases/download/v0.1.7/Online.Service.Request.CIO.Android.v0.1.3.apk)
+
+Open the downloaded `.apk` file on your Android phone to install the app.
+
+## Already have the Windows app?
 
 Open **Help > Check for Updates** inside the desktop app to get available updates.
